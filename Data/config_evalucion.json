@@ -1,0 +1,28 @@
+{
+    "config": {
+        "w_teoria": 0.4,
+        "w_practica": 0.4,
+        "w_asistencia": 0.2,
+        "umbral": 60.0
+    },
+    "campers": [
+        {
+            "id": 1,
+            "nombre": "Ana López",
+            "teoria": 85.0,
+            "practica": 70.0,
+            "asistencia": 90.0,
+            "nota_final": 0.0,
+            "estado": "Riesgo"
+        },
+        {
+            "id": 2,
+            "nombre": "Carlos Gómez",
+            "teoria": 60.0,
+            "practica": 65.0,
+            "asistencia": 80.0,
+            "nota_final": 0.0,
+            "estado": "Riesgo"
+        }
+    ]
+}
